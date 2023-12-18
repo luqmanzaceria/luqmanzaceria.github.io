@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkpersonal_website=self.webpackChunkpersonal_website||[]).push([[678],{257:function(e,t,l){l.r(t),l.d(t,{default:function(){return a}});var n=l(7294);var r=()=>n.createElement("div",null,n.createElement("h1",{className:"text-3xl font-bold underline"},"Hello World!"),n.createElement("h2",null,"This is a test"));function a(){return n.createElement(n.Fragment,null,n.createElement(r,null))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-577edc7962c4c102ce7b.js.map
