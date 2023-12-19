@@ -20,7 +20,7 @@ const Navbar = () => {
                         )}
                     </button>
                     {/* Title */}
-                    <a href="#" className="text-2xl font-light text-gray-800">Luqman Zaceria</a>
+                    <a href="#home" className="text-2xl font-light text-gray-800">Luqman Zaceria</a>
                     <div className="hidden md:flex items-center space-x-4">
                         <a href="#about" className="text-gray-800 hover:text-blue-600">About</a>
                         <a href="#education" className="text-gray-800 hover:text-blue-600">Education</a>
