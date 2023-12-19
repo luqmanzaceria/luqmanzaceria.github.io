@@ -38,7 +38,7 @@ const NotFoundPage = () => {
           </>
         ) : null}
         <br />
-        <Link class='underline' to="/">Go home</Link>.
+        <a class='underline' href="/">Go home</a>.
       </p>
     </main>
   )
