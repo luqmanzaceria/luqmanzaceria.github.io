@@ -46,7 +46,7 @@ const Experience = () => {
                 <div>
                     <h3 class="font-bold text-lg">ASDRP</h3>
                     <p class="text-gray-600">Researcher</p>
-                    <p>Led ML platform creation for drug discovery 🧬 and got research published in The Journal of Emerging Investigators.</p>
+                    <p>Led ML platform creation for drug discovery 👨‍🔬 and got research published in The Journal of Emerging Investigators.</p>
                 </div>
                 <div class="text-right">
                     <p class="text-sm text-gray-500">Fremont, CA</p>
