@@ -8,8 +8,9 @@ require(`dotenv`).config({
 
 module.exports = {
   siteMetadata: {
-    title: `Personal Website`,
-    siteUrl: `https://www.yourdomain.tld`
+    title: `Luqman Zaceria`,
+    description: `Luqman Zaceria's Personal Website`,
+    siteUrl: `https://luqmanzaceria.github.io`
   },
   plugins: [
     'gatsby-plugin-postcss',
