@@ -19,7 +19,7 @@ module.exports = {
         // your google analytics tracking id
         trackingIds: [process.env.GOOGLE_ANALYTICS_ID],
         // Puts tracking script in the head instead of the body
-        head: true,
+        head: false,
         // enable ip anonymization
         anonymize: true,
       },
