@@ -15,7 +15,7 @@ const Contact = () => {
                     <a href="mailto:luqmanzaceria@gmail.com" target="_blank" rel="noopener noreferrer" class="block">
                         <img src={email} alt="Email" class="h-16 w-16" />
                     </a>
-                    <a href="https://www.linkedin.com/in/luqmanzaceria" target="_blank" rel="noopener noreferrer" class="block">
+                    <a href="https://www.linkedin.com/in/luqman-zaceria" target="_blank" rel="noopener noreferrer" class="block">
                         <img src={linkedin} alt="LinkedIn" class="h-16 w-16" />
                     </a>
                     <a href="https://github.com/luqmanzaceria" target="_blank" rel="noopener noreferrer" class="block">
