@@ -24,6 +24,7 @@ module.exports = {
         // enable ip anonymization
         anonymize: true,
       },
-    }
+    }, 
+    `gatsby-plugin-sitemap`
   ]
 };
