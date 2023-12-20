@@ -17,7 +17,7 @@ const ProjectCard = ({ imageUrl, title, descContent }) => {
             <article className="overflow-hidden rounded-lg shadow-lg flex flex-col">
                 <div className="flex-shrink-0">
                     <a onClick={openDesc}>
-                        <img alt="Placeholder" className="block h-48 w-full object-cover" src={imageUrl} />
+                        <img alt="Placeholder" className="block h-48 w-full object-cover hover:opacity-75" src={imageUrl} />
                     </a>
                 </div>
                 <header className="flex flex-col items-center justify-center leading-tight p-2 md:p-4 flex-grow">
