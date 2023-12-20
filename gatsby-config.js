@@ -23,6 +23,7 @@ module.exports = {
         // enable ip anonymization
         anonymize: true,
       },
-    }
+    },
+    'gatsby-plugin-react-helmet'
   ]
 };
