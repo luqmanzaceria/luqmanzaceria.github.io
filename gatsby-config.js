@@ -25,6 +25,13 @@ module.exports = {
         anonymize: true,
       },
     }, 
-    `gatsby-plugin-sitemap`
+    `gatsby-plugin-sitemap`,
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+          trackingId: process.env.GOOGLE_ANALYTICS_ID,
+          head: true
+      }
+    }
   ]
 };
