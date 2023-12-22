@@ -32,6 +32,6 @@ module.exports = {
           trackingId: process.env.GOOGLE_ANALYTICS_ID,
           head: true
       }
-    }
+    },
   ]
 };

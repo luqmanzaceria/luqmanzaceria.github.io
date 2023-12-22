@@ -15,7 +15,7 @@ const Education = () => {
                     </div>
                     <div class='text-left pb-10'>
                         <h3 class='text-xl font-bold'>Relevant Coursework</h3>
-                        <p class='font-bold'>✅ CSE 16: Discrete Math (I tutor this class!)</p>
+                        <p class='font-bold'>✅ CSE 16: Applied Discrete Mathematics (I tutor this class!)</p>
                         <p class='font-bold'>✅ CSE 30: Programming Abstractions: Python</p>
                         <p class='font-bold'>✅ CSE 101: Data Structures & Algorithms</p>
                         <p class='font-bold'>✅ CSE 102: Introduction to Analysis of Algorithms</p>
