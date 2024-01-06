@@ -1,12 +1,14 @@
 import React from "react";
 import Card from "./ProjectCard";
 import wall_extraction from "../images/wall_extraction.png";
-import blogging_platform from "../images/blogging_platform.jpg";
+import blogging_platform from "../images/blogging_platform.gif";
 import ml_dd from "../images/ml_dd.png";
-import todo_list from "../images/todo_list.png";
+import todo_list from "../images/todo_list.gif";
 import drug_screening from "../images/drug_screening.png";
 import superchat from "../images/superchat.png";
 import group_video_chat from "../images/group_video_chat.png";
+import yelp_demo from "../images/yelp_demo.gif";
+import workout_tracker from "../images/workout_tracker.png";
 
 const Projects = () => {
   return (
@@ -14,6 +16,42 @@ const Projects = () => {
       <h2 class="text-3xl font-light px-8 sm:px-16 md:px-32">Projects</h2>
       <div className="container my-12 mx-auto px-4 md:px-12">
         <div className="flex flex-wrap -mx-1 lg:-mx-4 pl-20">
+          <Card
+            imageUrl={workout_tracker}
+            title="Workout Tracker"
+            descContent={[
+              "Workout tracker with authentication",
+              <br></br>,
+              <br></br>,
+              "Built with: MongoDB, Express, React, and Node",
+              <br></br>,
+              <br></br>,
+              <a
+                class="underline hover:text-blue-500"
+                href="https://github.com/luqmanzaceria/workout-tracker"
+              >
+                Code
+              </a>,
+            ]}
+          />
+          <Card
+            imageUrl={yelp_demo}
+            title="Yelp Clone"
+            descContent={[
+              "Restaurant finder and reviewer.",
+              <br></br>,
+              <br></br>,
+              "Built with: PostgreSQL, Express, React, and Node",
+              <br></br>,
+              <br></br>,
+              <a
+                class="underline hover:text-blue-500"
+                href="https://github.com/luqmanzaceria/yelp-clone"
+              >
+                Code
+              </a>,
+            ]}
+          />
           <Card
             imageUrl={group_video_chat}
             title="Group Video Chat"
