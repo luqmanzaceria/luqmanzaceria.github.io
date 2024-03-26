@@ -69,9 +69,9 @@ const Projects = () => {
           />
           <Card
             imageUrl={wall_extraction}
-            title="Wall Extraction"
+            title="Floorplan Vectorization"
             descContent={[
-              "This research developed and refined methods for extracting wall structures from floor plans. I utilized a combination of image processing and deep learning techniques such as convolutional neural networks. Also wrote scripts to convert an SVG to a CSV of coordinates, and remove text from image with Keras OCR and OpenCV. ",
+              "This research developed and refined methods for extracting wall structures and vectorizing floor plans. I utilized a combination of image processing and deep learning techniques such as convolutional neural networks. Also wrote scripts to convert an SVG to a CSV of coordinates, and remove text from image with Keras OCR and OpenCV. ",
               <br></br>,
               <br></br>,
               <a

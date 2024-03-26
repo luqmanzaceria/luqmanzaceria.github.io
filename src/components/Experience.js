@@ -50,7 +50,7 @@ const Experience = () => {
                 </div>
                 <div class="text-right">
                     <p class="text-sm text-gray-500">Fremont, CA</p>
-                    <p class="text-sm text-gray-500">Jun 2021 - Jan 2023</p>
+                    <p class="text-sm text-gray-500">Aug 2020 - Sep 2021</p>
                 </div>
                 </div>
             </div>

@@ -24,8 +24,11 @@ const Education = () => {
                         <p class='font-bold'>✅ CSE 40: Machine Learning Basics</p>
                         <p class='font-bold'>✅ CSE 103: Computational Models</p>
                         <p class='font-bold'>✅ CSE 130: Principles of Computer System Design</p>
-                        <p class='font-bold'>⏱️ CSE 144: Applied Machine Learning: Deep Learning</p>
-                        <p class='font-bold'>⏱️ CSE 186: Full Stack Web Development I</p>
+                        <p class='font-bold'>✅ CSE 144: Applied Machine Learning: Deep Learning</p>
+                        <p class='font-bold'>✅ CSE 186: Full Stack Web Development I</p>
+                        <p class='font-bold'>⏱️ CSE 187: Full Stack Web Development II</p>
+                        <p class='font-bold'>⏱️ CSE 164: Computer Vision</p>
+                        <p class='font-bold'>⏱️ CSE 114A: Foundations of Programming Languages</p>
                     </div>
                 </div>
             </div>
