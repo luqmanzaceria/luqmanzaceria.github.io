@@ -6,7 +6,7 @@ const Experience = () => {
             <div id="experience" class='flex flex-col pt-24'>
                 <h2 class='text-3xl font-light px-8 sm:px-16 md:px-32 pb-8'>Experience</h2>
                 <div class="px-14 sm:px-28 md:px-40 mx-auto">
-                <div class="flex justify-between items-center border-b-2 py-4">
+                {/* <div class="flex justify-between items-center border-b-2 py-4">
                 <div>
                     <h3 class="font-bold text-lg">University of Glasgow</h3>
                     <p class="text-gray-600">Researcher</p>
@@ -16,7 +16,7 @@ const Experience = () => {
                     <p class="text-sm text-gray-500">Glasgow, SCT</p>
                     <p class="text-sm text-gray-500">Jun 2023 - Present</p>
                 </div>
-                </div>
+                </div> */}
 
                 <div class="flex justify-between items-center border-b-2 py-4">
                 <div>
