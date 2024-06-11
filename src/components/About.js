@@ -9,16 +9,17 @@ const About = () => {
           About Me
         </h2>
         <p class="px-14 sm:px-28 md:px-40 pt-4 text-lg">
-          Hey there! 👋 I'm a computer science student at the UC Santa Cruz
+          Hey there! 👋 I'm a computer science graduate from the UC Santa Cruz
           Baskin School of Engineering.
         </p>
         <p class="px-14 sm:px-28 md:px-40 pt-4 text-lg">
           My expertise and academic focus lies in artificial intelligence. I'm
-          actively engaged in undergraduate research 🔬 at the UCSC Computer
-          Vision Lab 👀, focusing on indoor navigation solutions such as wall extraction and
+          actively engaged in research 🔬 at the UCSC Computer
+          Vision Lab 👀, and I earned the Dean's Award for Undergraduate Research
+          focusing on indoor navigation solutions such as wall extraction and
           floorplan vectorization with the application of convolutional neural
-          networks and image processing. I am also a tutor for Applied Discrete Mathematics as well as
-          Machine Learning.
+          networks and image processing. I was also a tutor for Machine Learning and
+          Applied Discrete Mathematics.
         </p>
         <p class="px-14 sm:px-28 md:px-40 pt-4 text-lg">
           My previous professional experience includes a role as a full-stack

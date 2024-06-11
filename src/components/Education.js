@@ -15,20 +15,20 @@ const Education = () => {
                     </div>
                     <div class='text-left pb-10'>
                         <h3 class='text-xl font-bold'>Relevant Coursework</h3>
-                        <p class='font-bold'>✅ CSE 16: Applied Discrete Mathematics (I tutor this class!)</p>
+                        <p class='font-bold'>✅ CSE 16: Applied Discrete Mathematics (I tutored this class!)</p>
                         <p class='font-bold'>✅ CSE 30: Programming Abstractions: Python</p>
                         <p class='font-bold'>✅ CSE 101: Data Structures & Algorithms</p>
                         <p class='font-bold'>✅ CSE 102: Introduction to Analysis of Algorithms</p>
                         <p class='font-bold'>✅ CSE 120: Computer Architecture</p>
                         <p class='font-bold'>✅ ECE 30: Engineering Principles of Electronics</p>
-                        <p class='font-bold'>✅ CSE 40: Machine Learning Basics</p>
+                        <p class='font-bold'>✅ CSE 40: Machine Learning Basics (I tutored this class too!)</p>
                         <p class='font-bold'>✅ CSE 103: Computational Models</p>
                         <p class='font-bold'>✅ CSE 130: Principles of Computer System Design</p>
                         <p class='font-bold'>✅ CSE 144: Applied Machine Learning: Deep Learning</p>
                         <p class='font-bold'>✅ CSE 186: Full Stack Web Development I</p>
-                        <p class='font-bold'>⏱️ CSE 187: Full Stack Web Development II</p>
-                        <p class='font-bold'>⏱️ CSE 164: Computer Vision</p>
-                        <p class='font-bold'>⏱️ CSE 114A: Foundations of Programming Languages</p>
+                        <p class='font-bold'>✅ CSE 187: Full Stack Web Development II</p>
+                        <p class='font-bold'>✅ CSE 164: Computer Vision</p>
+                        <p class='font-bold'>✅ CSE 114A: Foundations of Programming Languages</p>
                     </div>
                 </div>
             </div>

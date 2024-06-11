@@ -9,6 +9,7 @@ import superchat from "../images/superchat.png";
 import group_video_chat from "../images/group_video_chat.png";
 import yelp_demo from "../images/yelp_demo.gif";
 import workout_tracker from "../images/workout_tracker.png";
+import nile_trade from "../images/nile_trade.png"
 
 const Projects = () => {
   return (
@@ -16,6 +17,25 @@ const Projects = () => {
       <h2 class="text-3xl font-light px-8 sm:px-16 md:px-32">Projects</h2>
       <div className="container my-12 mx-auto px-4 md:px-12">
         <div className="flex flex-wrap -mx-1 lg:-mx-4 pl-20">
+        <Card
+            imageUrl={nile_trade}
+            title="Amazon Clone"
+            descContent={[
+              "Nile Trade. Amazon Clone",
+              <br></br>,
+              <br></br>,
+              "Built with: TypeScript, Node.js, Next.js, Express, TSOA, TypeGraphQl, React, MUI, PostgreSQL, NGINX, AWS EC2, Selenium Web Scraping",
+              <br></br>,
+              <br></br>,
+              <a
+                class="underline hover:text-blue-500"
+                href="https://www.niletrade.xyz"
+                target="_blank"
+              >
+                Website
+              </a>,
+            ]}
+          />
           <Card
             imageUrl={workout_tracker}
             title="Workout Tracker"
@@ -29,6 +49,7 @@ const Projects = () => {
               <a
                 class="underline hover:text-blue-500"
                 href="https://github.com/luqmanzaceria/workout-tracker"
+                target="_blank"
               >
                 Code
               </a>,
@@ -47,6 +68,7 @@ const Projects = () => {
               <a
                 class="underline hover:text-blue-500"
                 href="https://github.com/luqmanzaceria/yelp-clone"
+                target="_blank"
               >
                 Code
               </a>,
@@ -62,6 +84,7 @@ const Projects = () => {
               <a
                 class="underline hover:text-blue-500"
                 href="https://github.com/luqmanzaceria/group-video-chat/tree/main"
+                target="_blank"
               >
                 Code and Demo Instructions
               </a>,
@@ -77,6 +100,7 @@ const Projects = () => {
               <a
                 class="underline hover:text-blue-500"
                 href="https://docs.google.com/document/d/1wbfK_XH7AajhcG8SI49yNQ3K9OObylgzdTga0ah8xfA/edit?usp=sharing"
+                target="_blank"
               >
                 Research Summary
               </a>,
@@ -84,6 +108,7 @@ const Projects = () => {
               <a
                 class="underline hover:text-blue-500"
                 href="https://github.com/luqmanzaceria/ucsc-research/tree/main/cv-floorplan"
+                target="_blank"
               >
                 Code
               </a>,
@@ -105,6 +130,7 @@ const Projects = () => {
               <a
                 class="underline hover:text-blue-500"
                 href="https://github.com/luqmanzaceria/blogging-app/"
+                target="_blank"
               >
                 Code
               </a>,
@@ -120,6 +146,7 @@ const Projects = () => {
               <a
                 class="underline hover:text-blue-500"
                 href="https://docs.google.com/presentation/d/1EwbyktaEj4lg0EiYavcYviTDdG3NMky-8p2joHc3SaM/edit?usp=sharing"
+                target="_blank"
               >
                 Slides
               </a>,
@@ -127,6 +154,7 @@ const Projects = () => {
               <a
                 class="underline hover:text-blue-500"
                 href="https://docs.google.com/presentation/d/1QZEGBMsyOP5j8iSO6bXyL-KB52SUfb1r/edit?usp=sharing&ouid=107176839436513288211&rtpof=true&sd=true"
+                target="_blank"
               >
                 Poster
               </a>,
@@ -134,6 +162,7 @@ const Projects = () => {
               <a
                 class="underline hover:text-blue-500"
                 href="https://emerginginvestigators.org/articles/21-098"
+                target="_blank"
               >
                 Paper
               </a>,
@@ -152,6 +181,7 @@ const Projects = () => {
               <a
                 class="underline hover:text-blue-500"
                 href="https://github.com/luqmanzaceria/to-do-list"
+                target="_blank"
               >
                 Code
               </a>,
@@ -170,6 +200,7 @@ const Projects = () => {
               <a
                 class="underline hover:text-blue-500"
                 href="https://docs.google.com/document/d/13HOoCmQBLsHjqZVZDAkMPe0q1ehFVgZDjRBoze0ZXSc/edit?usp=sharing"
+                target="_blank"
               >
                 Abstract
               </a>,
@@ -177,6 +208,7 @@ const Projects = () => {
               <a
                 class="underline hover:text-blue-500"
                 href="https://docs.google.com/presentation/d/1It_nbeR16Tvwn-Pefxy38FdERyfExKJGkdHmmrWg2Do/edit?usp=sharing"
+                target="_blank"
               >
                 Presentation
               </a>,
@@ -184,6 +216,7 @@ const Projects = () => {
               <a
                 class="underline hover:text-blue-500"
                 href="https://github.com/luqmanzaceria/ligand-docking-script"
+                target="_blank"
               >
                 Code
               </a>,
@@ -202,6 +235,7 @@ const Projects = () => {
               <a
                 class="underline hover:text-blue-500"
                 href="https://convo-d7181.web.app/"
+                target="_blank"
               >
                 Live Demo
               </a>,
@@ -209,6 +243,7 @@ const Projects = () => {
               <a
                 class="underline hover:text-blue-500"
                 href="https://github.com/luqmanzaceria/superchat"
+                target="_blank"
               >
                 Code
               </a>,
