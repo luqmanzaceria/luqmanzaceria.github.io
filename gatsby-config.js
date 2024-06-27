@@ -33,6 +33,7 @@ module.exports = {
           head: true
       }
     },
-    `gatsby-plugin-react-helmet`
+    `gatsby-plugin-react-helmet`,
+    'gatsby-plugin-robots-txt'
   ]
 };
